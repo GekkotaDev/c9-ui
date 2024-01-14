@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "production": [
+      {
+        "name": "embla-carousel-vue",
+        "version": "8.0.0-rc19",
+        "optional": false
+      }
+    ],
+    "dev": []
+  }
+}
